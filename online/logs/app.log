@@ -1,0 +1,22 @@
+2025-03-03 13:05:36,010 - signature_api - INFO - [OnlineApi.py:700] - Starting Signature Analysis API on 0.0.0.0:5000
+2025-03-03 13:05:36,011 - signature_api - INFO - [OnlineApi.py:701] - Debug mode: True
+2025-03-03 13:05:36,011 - signature_api - INFO - [OnlineApi.py:702] - Upload folder: uploads
+2025-03-03 13:05:36,011 - signature_api - INFO - [OnlineApi.py:703] - CSV folder: features
+2025-03-03 13:05:36,011 - signature_api - INFO - [OnlineApi.py:704] - Model folder: models
+2025-03-03 13:05:36,011 - signature_api - INFO - [OnlineApi.py:705] - Model file: models\signature_cnn_model.pth
+2025-03-03 13:05:36,012 - signature_api - WARNING - [OnlineApi.py:717] - Model file not found: models\signature_cnn_model.pth
+2025-03-03 13:05:36,026 - werkzeug - INFO - [_internal.py:97] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.15.246:5000
+2025-03-03 13:05:36,026 - werkzeug - INFO - [_internal.py:97] - [33mPress CTRL+C to quit[0m
+2025-03-03 13:05:36,027 - werkzeug - INFO - [_internal.py:97] -  * Restarting with stat
+2025-03-03 13:05:37,974 - signature_api - INFO - [OnlineApi.py:700] - Starting Signature Analysis API on 0.0.0.0:5000
+2025-03-03 13:05:37,975 - signature_api - INFO - [OnlineApi.py:701] - Debug mode: True
+2025-03-03 13:05:37,975 - signature_api - INFO - [OnlineApi.py:702] - Upload folder: uploads
+2025-03-03 13:05:37,975 - signature_api - INFO - [OnlineApi.py:703] - CSV folder: features
+2025-03-03 13:05:37,975 - signature_api - INFO - [OnlineApi.py:704] - Model folder: models
+2025-03-03 13:05:37,975 - signature_api - INFO - [OnlineApi.py:705] - Model file: models\signature_cnn_model.pth
+2025-03-03 13:05:37,976 - signature_api - WARNING - [OnlineApi.py:717] - Model file not found: models\signature_cnn_model.pth
+2025-03-03 13:05:37,982 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2025-03-03 13:05:37,986 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 725-301-565
